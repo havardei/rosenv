@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/opt/conda/envs/python3.6/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Pyton3.6",
+ "language": "python"
+}
